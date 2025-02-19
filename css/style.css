@@ -1369,13 +1369,13 @@ blockquote.style2:after {
 .mini-cart .group-button .check-out {
     border: 1px solid #f5f5f5;
     background-color:#f5f5f5;
-    color: #002e76;
+    color: #057689;
     padding: 15px 0px;
 }
 
 .mini-cart .group-button .check-out:hover {
     background-color: #f5f5f5;
-    color: #002e76;
+    color: #057689;
     border-color: #f5f5f5;
 }
 
@@ -1748,7 +1748,7 @@ blockquote.style2:after {
 
 .header.style3 .main-menu > li > a:hover,
 .header.style3 .main-menu > li.active > a {
-    color: #002e76;
+    color: #057689;
     font-weight: 600;
 }
 
@@ -2864,7 +2864,7 @@ PRODUCT
 }
 
 .product-item .price {
-    color: #131313;
+    color: #393A3D;
     display: block;
     font-size: 1.6rem;
     /*	margin-bottom: 5px;*/
@@ -3531,7 +3531,7 @@ DS .product-list .product-item {
 }
 
 .widget ul li a {
-    color: #002e76;
+    color: #057689;
 }
 
 .widget_product_categories li,
@@ -3828,7 +3828,7 @@ DS .product-list .product-item {
 }
 
 .widget_recent_product .price {
-    color: #002e76;
+    color: #393A3D;
 }
 
 .widget_recent_product .price ins {
@@ -4183,7 +4183,7 @@ FOOTER
 }
 
 .footer .contact-info .phone {
-    color: #002e76;
+    color: #057689;
     font-size: 18px;
 }
 
@@ -4226,7 +4226,7 @@ FOOTER
 
 .footer .widget_social .social a:hover {
     background-color: #7d7b7b;
-    color: #002e76;
+    color: #057689;
 }
 
 .footer .footer-bottom {
@@ -4761,7 +4761,7 @@ FOOTER
 .section-title h3 {
     font-size: 24px;
     text-transform: uppercase;
-    color: #002e76;
+    color: #057689;
     margin-bottom: 0;
     position: relative;
     display: inline-block;
@@ -4774,7 +4774,7 @@ FOOTER
     left: 10px;
     margin: 0 -30px -15px 0;
     width: 47px;
-    background-color: #008259;
+    background-color: #057689;
 }
 
 .section-title .sub-title {
@@ -4902,7 +4902,7 @@ FOOTER
     content: '';
     width: 50px;
     height: 2px;
-    background-color: #008259;
+    background-color: #057689;
     display: block;
     margin: 0 auto;
     margin-top: 5px;
@@ -5573,7 +5573,7 @@ FOOTER
     width: 0px;
     height: 2px;
     display: block;
-    background-color: #008259;
+    background-color: #057689;
     margin: 0 auto;
     margin-top: 8px;
     content: '';
@@ -6351,7 +6351,7 @@ FOOTER
 }
 
 .product-details-right .price {
-    color: #002e76;
+    color: #057689;
     font-size: 18px;
     text-decoration: none;
     display: inline-block;
@@ -6631,7 +6631,7 @@ FOOTER
 }
 
 .tab-details-product .box-tabs li a {
-    color: #002e76;
+    color: #057689;
     text-transform: uppercase;
 }
 .tab-details-product .box-tabs .active a {
@@ -6643,7 +6643,7 @@ FOOTER
     display: block;
     width: 0%;
     margin-top: 3px;
-    background-color: #008259;
+    background-color: #057689;
     -webkit-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
 }
@@ -7842,7 +7842,7 @@ BLOG PAGE
     height: 30px;
     line-height: 30px;
     margin-top: 10px;
-    color: #002e76;
+    color: #057689;
 }
 
 .box-mobile-menu {
@@ -7851,7 +7851,7 @@ BLOG PAGE
     left: -100%;
     width: 320px;
     bottom: 0;
-    background-color: #002e76;
+    background-color: #057689;
     z-index: 100;
     -webkit-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
@@ -7957,7 +7957,7 @@ BLOG PAGE
     z-index: 9999;
     right: 10px;
     bottom: 60px;
-    background-color: #002e76;
+    background-color: #057689;
     display: none;
     color: #fff;
     text-align: center;
@@ -9647,7 +9647,7 @@ RESPONSIVE
 }
 
 .basket {
-    background: #008259;
+    background: #ffed00;
     border-radius: 100%;
     height: 24px;
     line-height: 24px;
@@ -9658,7 +9658,7 @@ RESPONSIVE
     width: 24px;
     z-index: 1;
     text-align: center;
-    color: #fff;
+    color: #057689;
     font-weight: 600;
 }
 
@@ -9823,7 +9823,7 @@ li.info-pts {
 .appWhatsapp {
 
     border-radius: 16px;
-    background: #002e76;
+    background: #057689;
     color: rgb(255, 255, 255);
 
     align-items: center;
@@ -9870,7 +9870,7 @@ li.info-pts {
     width: 35px;
     max-height: 35px;
     height: 50px !important;
-    background-color: #008259;
+    background-color: #057689;
     border-radius: 50%;
     position: absolute;
     bottom: 15px;
@@ -10126,7 +10126,9 @@ li.info-pts span {
     align-items: self-start;
 }
 
-.header.style3 .main-menu > li:nth-child(1){
+.header.style3 .main-menu > li:nth-child(2),
+.header.style3 .main-menu > li:nth-child(4),
+.header.style3 .main-menu > li:nth-child(6){
    display: none;
 }
 
